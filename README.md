@@ -2,9 +2,12 @@
 An assignment on java script modifying the DOM and using anonymous callback functions.
 
 
-Hosted at:[https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-manikantaarumilli/hunt.html]
+<a href="https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-manikantaarumilli/hunt.html">
+"Hosted Hunt" </a>
 
-Hosted at:[https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-manikantaarumilli/reaction.html]
+<a href="https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-manikantaarumilli/reaction.html">
+"Hosted Reaction" </a>
 
 
-Hosted at:[https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-manikantaarumilli/queue.html]
+<a href="https://44-563-web-apps-s22.github.io/webapps-s22-assignment-7-manikantaarumilli/queue.html">
+"Hosted Queue"</a>
